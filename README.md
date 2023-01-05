@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahesh Bohara.</h1>
-<h3 align="center">A passionate fullsack javascript/flutter developer from Nepal.</h3>
+<h3 align="center">A passionate fullsack Javascript/Flutter developer from Nepal.</h3>
 
 - 🌱 I’m currently learning **Next.Js, Nest.JS**
 
