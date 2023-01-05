@@ -1,5 +1,3 @@
-### Hi there 👋,  I'm Mahesh Bohara!
-
 <h1 align="center">Hi 👋, I'm Mahesh Bohara.</h1>
 <h3 align="center">A passionate fullsack javascript/flutter developer from Nepal.</h3>
 
@@ -22,7 +20,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/sdfdsf"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sdfdsf" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsbohara&show_icons=true&locale=en&layout=compact" alt="itsbohara" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsbohara&show_icons=true&locale=en&layout=compact" alt="itsbohara" /></p> -->
 
 </br>
 
