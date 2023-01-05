@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.Js, Nest.JS**
 
-- 👨‍💻 All of my projects are available at [https://m.itsbohara.com/portfolio](https://m.itsbohara.com/portfolio)
+- 👨‍💻 Some of my projects are available at [https://m.itsbohara.com/portfolio](https://m.itsbohara.com/portfolio)
 
 - 💬 Ask me about **React, Node, Flutter, MongoDB, Firebase**
 
