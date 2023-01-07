@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mahesh Bohara.</h1>
 <h3 align="center">A passionate fullsack Javascript/Flutter developer from Nepal.</h3>
 
-- 🌱 I’m currently learning **Next.Js, Nest.JS**
+- 🌱 I’m currently learning **Next.Js**
 
 - 👨‍💻 All of my projects are available at [https://m.itsbohara.com/portfolio](https://m.itsbohara.com/portfolio)
 
-- 💬 Ask me about **React, Node, Flutter, MongoDB, Firebase**
+- 💬 Ask me about **MERN, Node, Flutter, MongoDB, Firebase**
 
 - 📫 How to reach me **me@itsbohara.com**
 
