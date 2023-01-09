@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahesh Bohara.</h1>
 <h3 align="center">A passionate fullsack Javascript/Flutter developer from Nepal.</h3>
 
-- 🌱 I’m currently learning **Next.Js**
+- 🌱 I’m currently learning **Web3, Next.Js**
 
 - 👨‍💻 All of my projects are available at [https://m.itsbohara.com/portfolio](https://m.itsbohara.com/portfolio)
 
