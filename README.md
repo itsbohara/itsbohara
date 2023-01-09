@@ -5,9 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [https://m.itsbohara.com/portfolio](https://m.itsbohara.com/portfolio)
 
-- 💬 Ask me about **MERN, Node, Flutter, MongoDB, Firebase**
+- 💬 Ask me about **Anything JavaScript**
 
-- 📫 How to reach me **me@itsbohara.com**
+- 📫 How to reach me **mahi@itsbohara.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
