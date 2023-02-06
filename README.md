@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahesh Bohara.</h1>
-<h3 align="center">A Full Stack Developer from Nepal.</h3>
+<h3 align="center">Full Stack Developer from Nepal.</h3>
 
 - 🌱 I’m currently learning **Web3, Go, Next.Js, Ruby**
 
