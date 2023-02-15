@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahesh Bohara.</h1>
 <h3 align="center">Full Stack Developer from Nepal.</h3>
 
-- 🌱 I’m currently exploring **Web3, Go, Next.Js**
+- 🌱 I’m currently exploring **Web3**
 
 - 👨‍💻 All of my projects are available at [https://m.itsbohara.com/portfolio](https://m.itsbohara.com/portfolio)
 
