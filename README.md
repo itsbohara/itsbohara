@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://m.itsbohara.com/portfolio](https://m.itsbohara.com/portfolio)
 
-- 💬 Ask me about **Anything JavaScript**
+- 💬 Ask me about **React/Next.Js, Node.Js**
 
 - 📫 How to reach me **mahi@itsbohara.com**
 
