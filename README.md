@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently exploring **Web3**
 
-- 👨‍💻 All of my projects are available at [https://m.itsbohara.com/portfolio](https://m.itsbohara.com/portfolio)
+- 👨‍💻 Wanna look my portfolio : [https://m.itsbohara.com](https://m.itsbohara.com)
 
-- 💬 Ask me about **React/Next.Js, Node.Js**
+- 👯 Looking to collaborate on some cool projects
 
 - 📫 How to reach me **mahi@itsbohara.com**
 
