@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently exploring **Web3**
 
-- 👨‍💻 Wanna look my portfolio : [https://m.itsbohara.com](https://m.itsbohara.com)
+- 👨‍💻 Wanna check out my portfolio : [https://m.itsbohara.com](https://m.itsbohara.com)
 
 - 👯 Looking to collaborate on some cool projects
 
