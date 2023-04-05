@@ -7,7 +7,7 @@
 
 - 👯 Looking to collaborate on some cool projects
 
-- 📫 How to reach me **mahi@itsbohara.com**
+- 📫 How to reach me **its0coder@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
